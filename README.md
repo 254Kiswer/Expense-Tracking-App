@@ -1,0 +1,4 @@
+In this Full Stack Development project that I have done using React and Node js, From this project I have learnt how to build a complete expense tracking application using the MERN Stack (MongoDB, Express, ReactJS, and Node.js). I started by setting up the back-end using Node.js and Express, connecting it to a MongoDB database. Then, I move on to the front-end, using ReactJS to create a dynamic and interactive user interface. Throughout the project, I learnt how to implement key features such as creating and managing expenses, viewing and analyzing expenses over time, and more.
+
+Author: Kiswa Ali Seif
+email: kiswer254@gmail.com
